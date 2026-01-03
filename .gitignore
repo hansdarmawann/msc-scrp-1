@@ -1,0 +1,12 @@
+# Runtime artifacts
+downloads/
+downloads_cache.sqlite
+spotify_tracks.spotdl
+
+# Python
+__pycache__/
+*.pyc
+
+# Environment
+.env
+.env.*
